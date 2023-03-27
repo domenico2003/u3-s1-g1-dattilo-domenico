@@ -3,8 +3,23 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
+}
+
+button {
+  background-color: rgb(0, 166, 255);
+  border: none;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.img-prova {
+  border: 3px solid black;
+  margin-left: 20px;
+  box-shadow: 13px 13px 20px black;
 }
 
 @media (prefers-reduced-motion: no-preference) {
